@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/booster1337/booster1337/main/banner.png)
+![Banner](https://raw.githubusercontent.com/booster1337/booster1337/main/banner2.png)
 
 # 👋 Cześć, jestem Miłosz, znany jako BoosTer!
 
