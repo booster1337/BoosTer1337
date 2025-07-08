@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Cześć, jestem BoosTer!
 
-<!--
-**booster1337/BoosTer1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Jestem inżynierem elektroniki i telekomunikacji z pasją do programowania  
+💻 Ukończyłem również technikum informatyczne  
+🌍 Szukam pracy zdalnej jako junior developer  
+🛠️ Technologie: PHP, MySQL, HTML, CSS, JavaScript, Python  
+📚 Obecnie rozwijam się w backendzie i buduję portfolio projektów  
 
-Here are some ideas to get you started:
+## 🧰 Moje projekty:
+- 📘 [Mini Blog (PHP + MySQL)](https://github.com/booster1337/mini-blog)
+- ✅ [ToDo App (HTML/CSS/JS)](https://github.com/booster1337/todo-app)
+- 📚 [Book API (Python + Flask)](https://github.com/booster1337/book-api)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Skontaktuj się: `god.booster1337@gmail.com`  
+💼 LinkedIn: `BoosTer1337`  
+💬 Discord: **BoosTer2115**  *(tutaj wpisz swój tag Discord)*  
