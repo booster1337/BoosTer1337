@@ -13,4 +13,4 @@
 
 📫 Skontaktuj się: `god.booster1337@gmail.com`  
 💼 LinkedIn: `BoosTer1337`  
-💬 Discord: **BoosTer2115**  *(tutaj wpisz swój tag Discord)*  
+💬 Discord: **BoosTer2115**  
