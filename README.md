@@ -16,7 +16,7 @@
 ## 📫 Kontakt:
 - 📧 god.booster1337@gmail.com  
 - 💬 Discord: BoosTer2115  
-- 🔗 [LinkedIn](www.linkedin.com/in/booster1337)
+- 🔗 [LinkedIn](https://linkedin.com/in/booster1337/)
 
 ---
 
